@@ -10,6 +10,4 @@ CREATE TABLE users (
 
 INSERT INTO users (id, username, password)VALUES (1, 'swathi', 'starswak7');
 
-insert into users(id, username, password) values(2,"Adarsh","asus");
-
 select * from users;
